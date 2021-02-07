@@ -5,6 +5,7 @@ Youtube: https://youtu.be/I4mO5pWSNaA
 
 Python 3.8.6
 pip install --upgrade pip
+
 pip install python-binance
 
 
